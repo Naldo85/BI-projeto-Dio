@@ -1,6 +1,7 @@
 # BI-projeto-Dio
 
 ## Descrição do desafio módulo 3 – Processamento de Dados Simplificado com Power BI
+- ### Instruções de Entrega do Desafio
 1.	Criação de uma instância na Azure para MySQL
 2.	Criar o Banco de dados com base disponível no github
 3.	Integração do Power BI com MySQL no Azure 
