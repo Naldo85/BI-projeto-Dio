@@ -29,14 +29,14 @@
 # Imagens Referente ao Projeto
 
 **Criação de Banco de Dados MySql no Azure**
-![Alt text](azure_project.png)
+![azure_project](https://github.com/Naldo85/BI-projeto-Dio/assets/82780957/56ab3a4c-69fa-4222-8b3d-414d67a08220)
 
 **Conexão com Banco de Dados no Azure Usando o Workbench**
-![Alt text](conection_MySql.png)
+![conection_MySql](https://github.com/Naldo85/BI-projeto-Dio/assets/82780957/4b2f2c9b-7afa-414f-a37d-0cd35de97e67)
 
 ## Componentes do relatório:
 **Relatório Proposto no Projeto**
-![Alt text](project_BI_dio.png)
+![project_BI_dio](https://github.com/Naldo85/BI-projeto-Dio/assets/82780957/02d41f78-ceb8-45d5-a08f-9266d485a6e2)
   - Três cartões na parte superior nos quais descrevem respectivame nte: Contagem de Colaboradores, Contagem de Gerentes e Soma de Horas Executadas;
 
   - Na parte mais a direita do relatório, um gráfico de Colunas Clusterizado, no qual descreve no eixo Y a soma de horas, enquanto no eixo X o Nome;
@@ -50,5 +50,5 @@
 </div>
 
 
-## 📚 Referencias
+## 📚 Referências
 - **[Projeto Power_BI_Analyst](https://github.com/julianazanelatto/power_bi_analyst)**
