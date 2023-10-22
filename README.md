@@ -1,7 +1,8 @@
 # BI-projeto-Dio
 
-## Descrição do desafio módulo 3 – Processamento de Dados Simplificado com Power BI
-- ### Instruções de Entrega do Desafio
+## Desafio de Projeto – Processamento de Dados Simplificado com Power BI
+
+### Instruções de Entrega do Desafio
 1.	Criação de uma instância na Azure para MySQL
 2.	Criar o Banco de dados com base disponível no github
 3.	Integração do Power BI com MySQL no Azure 
@@ -22,3 +23,32 @@
 14.	Explique por que, neste caso supracitado, podemos apenas utilizar o mesclar e não o atribuir. 
 15.	Agrupe os dados a fim de saber quantos colaboradores existem por gerente
 16.	Elimine as colunas desnecessárias, que não serão usadas no relatório, de cada tabela
+
+<div>
+
+# Imagens Referente ao Projeto
+
+**Criação de Banco de Dados MySql no Azure**
+![Alt text](azure_project.png)
+
+**Conexão com Banco de Dados no Azure Usando o Workbench**
+![Alt text](conection_MySql.png)
+
+## Componentes do relatório:
+**Relatório Proposto no Projeto**
+![Alt text](project_BI_dio.png)
+  - Três cartões na parte superior nos quais descrevem respectivame nte: Contagem de Colaboradores, Contagem de Gerentes e Soma de Horas Executadas;
+
+  - Na parte mais a direita do relatório, um gráfico de Colunas Clusterizado, no qual descreve no eixo Y a soma de horas, enquanto no eixo X o Nome;
+
+  - As visões na parte inferior esquerdo do relatório, encontra-se disposto dois gráficos no qual são eles: Um Gráfico de Rosca descrevendo Quantidade de Dependente por Colaborador e  Um Gráfico de Cascata refletindo a contagem de Colaboradores por Departamento.
+
+  - Ainda na parte inferior, mas disposto na parte central, um gráfico de Barras de contagem de Horas por Projetos;
+
+  - Por fim, a última visão da parte inferior do relatório, um gráfico de Pizza. Neste foram agrupados a contagem de Colaboradores por Cidade.
+
+</div>
+
+
+## 📚 Referencias
+- **[Projeto Power_BI_Analyst](https://github.com/julianazanelatto/power_bi_analyst)**
